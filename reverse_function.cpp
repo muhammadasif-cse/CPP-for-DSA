@@ -19,6 +19,12 @@ int main()
     {
         cout << a[i] << " ";
     }
+    cout << endl;
 
+    string s;
+    cin >> s;
+    // Using the reverse function from the algorithm library
+    reverse(s.begin(), s.end());
+    cout << s << endl;
     return 0;
 }
