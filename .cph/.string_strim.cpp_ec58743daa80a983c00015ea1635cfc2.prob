@@ -1,0 +1,1 @@
+{"name":"Local: string_strim","url":"e:\\courses\\phitron\\C++ for DSA\\string_strim.cpp","tests":[{"id":1749484576149,"input":"I love you","output":"I evol uoy "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\courses\\phitron\\C++ for DSA\\string_strim.cpp","group":"local","local":true}
