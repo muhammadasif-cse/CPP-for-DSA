@@ -1,0 +1,1 @@
+{"name":"Local: reverse_function","url":"e:\\courses\\phitron\\C++ for DSA\\reverse_function.cpp","tests":[{"id":1749483151068,"input":"5\n1 2 3 4 5","output":"5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\courses\\phitron\\C++ for DSA\\reverse_function.cpp","group":"local","local":true}
