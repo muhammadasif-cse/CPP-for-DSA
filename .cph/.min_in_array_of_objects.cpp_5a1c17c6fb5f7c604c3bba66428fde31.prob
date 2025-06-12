@@ -1,0 +1,1 @@
+{"name":"Local: min_in_array_of_objects","url":"e:\\courses\\phitron\\C++ for DSA\\min_in_array_of_objects.cpp","tests":[{"id":1749750068114,"input":"4\nasif 1 95\narabi 3 80\nadnan 5 30\nshanta 10 40","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\courses\\phitron\\C++ for DSA\\min_in_array_of_objects.cpp","group":"local","local":true}
