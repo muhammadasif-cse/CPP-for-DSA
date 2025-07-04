@@ -21,6 +21,7 @@ void insert_tail(Node *&head, Node *&tail, int val)
     if (head == NULL)
     {
         head = newNode;
+        tail = newNode;
         return;
     }
 
